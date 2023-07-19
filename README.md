@@ -26,7 +26,7 @@ Passionate computing graduate and full stack developer trainee at CodeYourFuture
 
 ![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenacapraru&show_icons=true&theme=dracula&hide=stars)
 
-### Languages and Tools
+## Languages and Tools
 
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" height="40" />
@@ -52,11 +52,12 @@ Passionate computing graduate and full stack developer trainee at CodeYourFuture
   <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET" title="ASP.NET" height="40" />
 </p>
 
-## The Biggest Challenge 
+## The Biggest Challenge I Faced During my Educational Journey
 
 <p>My dissertation was to design a develop an Intelligent Door Lock System based on Voice Recognition with embeded motion sensor which notifies the owner in the event of a break-in. I created the access for the user to open and close the door only by vocal prints. 
 
 <br><b>Just imagine the potential of my capabilities when someone will open this career door for me?!</b></p>
 
 
-<p><b><i>"Programming is the closest thing we have to a superpower." - Drew Houston*</i></b></p>
+<br>
+<p><i>"Programming is the closest thing we have to a superpower." - Drew Houston*</i></p>
