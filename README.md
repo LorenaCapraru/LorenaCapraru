@@ -36,8 +36,9 @@ Passionate computing graduate and full stack developer trainee at CodeYourFuture
           
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" height="40" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" height="80" />
-          
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  alt="Tailwind" title="Tailwind" height="40" />
+                    
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" height="40" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" height="40" />
@@ -51,25 +52,11 @@ Passionate computing graduate and full stack developer trainee at CodeYourFuture
   <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET" title="ASP.NET" height="40" />
 </p>
 
+## The Biggest Challenge 
+
+<p>My dissertation was to design a develop an Intelligent Door Lock System based on Voice Recognition with embeded motion sensor which notifies the owner in the event of a break-in. I created the access for the user to open and close the door only by vocal prints. 
+
+<br><b>Just imagine the potential of my capabilities when someone will open this career door for me?!</b></p>
 
 
-## Certifications
-
-- PCEP - Certified Entry-Level Python Programmer
-
-
-### Hard Skills
-
-- HTML, CSS, JavaScript
-- React.js, Node.js, SQL
-- GitHub, Visual Studio/Visual Studio Code
-- Python, C#
-
-### Soft Skills
-
-- Effective Communication
-- Pair Programming
-- Teamwork
-- Collaboration
-- Problem Solving
-- Troubleshooting
+<p><b><i>"Programming is the closest thing we have to a superpower." - Drew Houston*</i></b></p>
