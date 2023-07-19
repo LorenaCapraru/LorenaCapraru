@@ -31,10 +31,17 @@ Passionate computing graduate and full stack developer trainee at CodeYourFuture
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" height="40" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" title="React.js" height="40" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" title="Next.js" height="40" />
+          
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" height="40" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" height="80" />
+          
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" height="40" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" height="40" />
+          
 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" height="40" />
 
