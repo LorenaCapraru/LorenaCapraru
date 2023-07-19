@@ -1,5 +1,36 @@
-<img width="1000" height='700' alt="Screenshot 2023-07-19 at 12 12 33" src="https://github.com/LorenaCapraru/LorenaCapraru/assets/108892538/8fb09fb0-2c38-4965-985e-d9464a9de22f">
- Hi there 👋
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Gmail][gmail-shield]][gmail-url]
+[![Phone][phone-shield]][phone-url]
+[![Location][location-shield]][location-url]
+
+
+Hi, I'm Lorena 👋
+<img width="1440" alt="Screenshot 2023-07-19 at 12 28 21" src="https://github.com/LorenaCapraru/LorenaCapraru/assets/108892538/cb3e5c92-cde4-4dcc-af89-e51a9798dc7f">
+
+
+
+
+[gmail-shield]: https://img.shields.io/badge/-Gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:lorencapraru@gmail.com
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-green.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/lorena-capraru-070723244/
+
+[phone-shield]: https://img.shields.io/badge/Phone-%2B447491738703-blue?style=for-the-badge
+[phone-url]: tel:+447491738703
+
+[location-shield]: https://img.shields.io/badge/Location-London%20NW9-orange?style=for-the-badge
+[location-url]: https://www.google.com/maps?q=London+NW9
+
+
+| Contact Information       |                           |
+|---------------------------|---------------------------|
+| Address                   | London, United Kingdom     |
+| Phone                     | 07491738703               |
+| Email                     | lorencapraru@gmail.com    |
+| LinkedIn                  | [LinkedIn Profile](https://www.linkedin.com/in/lloren-capraru-070723244/) |
+| GitHub                    | [GitHub Profile](https://github.com/LorenaCapraru) |
+
 
 <!--
 **LorenaCapraru/LorenaCapraru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
