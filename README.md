@@ -52,6 +52,8 @@ Passionate computing graduate and full stack developer trainee at CodeYourFuture
   <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET" title="ASP.NET" height="40" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacapraru&layout=compact)
+
 ## The Biggest Challenge I Faced During my Educational Journey
 
 <p>My dissertation was to design a develop an Intelligent Door Lock System based on Voice Recognition with embeded motion sensor which notifies the owner in the event of a break-in. I created the access for the user to open and close the door only by vocal prints. 
