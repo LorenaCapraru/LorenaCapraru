@@ -1,4 +1,4 @@
-<img width="1000" alt="Screenshot 2023-07-19 at 12 12 33" src="https://github.com/LorenaCapraru/LorenaCapraru/assets/108892538/8fb09fb0-2c38-4965-985e-d9464a9de22f">
+<img width="1000" height='700' alt="Screenshot 2023-07-19 at 12 12 33" src="https://github.com/LorenaCapraru/LorenaCapraru/assets/108892538/8fb09fb0-2c38-4965-985e-d9464a9de22f">
  Hi there 👋
 
 <!--
