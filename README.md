@@ -1,4 +1,5 @@
-### Hi there 👋
+###<img width="1440" alt="Screenshot 2023-07-19 at 12 12 33" src="https://github.com/LorenaCapraru/LorenaCapraru/assets/108892538/8fb09fb0-2c38-4965-985e-d9464a9de22f">
+ Hi there 👋
 
 <!--
 **LorenaCapraru/LorenaCapraru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +18,8 @@ Here are some ideas to get you started:
 
 
 # Hello, I'm Lorena Capraru 👋
+
+
 
 Passionate computing graduate and full stack developer trainee at CodeYourFuture, seeking an entry-level position to apply my coding and troubleshooting skills.
 
