@@ -50,6 +50,13 @@ Passionate computing graduate and full stack developer trainee at CodeYourFuture
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacapraru&layout=compact)
 
+<div >
+<h2 align="left">🔥 Streak Stats</h2> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorenacapraru&theme=blux&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
+
+<img src="https://komarev.com/ghpvc/?username=lorenacapraru&style=flat-square&color=blue" alt="Lorena Github View Count" width="130px"/>
+</div>
+
 ## The Biggest Challenge I Faced During my Educational Journey
 
 <p>My dissertation was to design a develop an Intelligent Door Lock System based on Voice Recognition with embeded motion sensor which notifies the owner in the event of a break-in. I created the access for the user to open and close the door only by vocal prints. 
