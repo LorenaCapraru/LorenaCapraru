@@ -19,6 +19,7 @@
 # Hello, I'm Lorena 👋
 
 Passionate computing graduate and full stack developer trainee at CodeYourFuture, seeking an entry-level position to apply my coding and troubleshooting skills.
+<p>Check out my Portofolio at--> https://lorenacapraru.netlify.app/</p>
 
 ![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenacapraru&show_icons=true&theme=dracula&hide=stars)
 
