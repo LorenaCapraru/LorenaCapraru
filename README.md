@@ -32,8 +32,6 @@ I enjoy challenges because the feeling overcoming them is enpowering and act lik
 
 ## Check out my 🚀 [Portofolio](https://lorenacapraru.netlify.app/)
 
-![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenacapraru&show_icons=true&theme=dracula&hide=stars)
-
 ## 👩🏼‍💻 Languages and Tools
 
 <p align="left">
@@ -73,9 +71,16 @@ I enjoy challenges because the feeling overcoming them is enpowering and act lik
 </p>
 <div >
 
-<h2 align="left">🔥 Streak Stats</h2> 
+# GitHub Stats
+<p align="left">
+ 
+<a href="https://github.com/lorenacapraru"><img alt="Lorena Capraru's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lorenacapraru&show_icons=true&count_private=true&theme=monokai&border_color=fff&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/lorenacapraru">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lorenacapraru&theme=monokai&border=fff&background=0D1117" alt="Lorena Capraru's GitHub Contribution"/>
+  </a>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorenacapraru&theme=dracula&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
+</p>  
+
 <br/>
 </div>
 
