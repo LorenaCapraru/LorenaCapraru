@@ -15,9 +15,14 @@
 [location-url]: https://www.google.com/maps?q=London+NW9
 
 # Hello, I'm Lorena 👋
+Currently:
+- <p> CodeYourFuture Volunteer, part of the production team. 
 
-Passionate computing graduate and full stack developer trainee at CodeYourFuture, seeking an entry-level position to apply my coding and troubleshooting skills.
-<p>Check out my Portofolio at--> https://lorenacapraru.netlify.app/</p>
+Previously:
+- <p> Falmouth University Computing Graduate
+- <p> CodeYourFuture Full Stack Engineer Graduate 
+
+## Check out my 🚀 [Portofolio](https://lorenacapraru.netlify.app/)
 
 ![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenacapraru&show_icons=true&theme=dracula&hide=stars)
 
@@ -40,6 +45,7 @@ Passionate computing graduate and full stack developer trainee at CodeYourFuture
           
 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" height="40" />
 
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code" height="40" />
 
@@ -56,12 +62,3 @@ Passionate computing graduate and full stack developer trainee at CodeYourFuture
 <br/>
 </div>
 
-## The Biggest Challenge I Faced During my Educational Journey
-
-<p>My dissertation was to design a develop an Intelligent Door Lock System based on Voice Recognition with embeded motion sensor which notifies the owner in the event of a break-in. I created the access for the user to open and close the door only by vocal prints. 
-
-<br><b>Just imagine the potential of my capabilities when someone will open this career door for me?!</b></p>
-
-
-<br>
-<p><i>"Programming is the closest thing we have to a superpower." - Drew Houston*</i></p>
