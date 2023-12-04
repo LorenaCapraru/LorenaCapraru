@@ -32,6 +32,8 @@ I enjoy challenges because the feeling overcoming them is enpowering and act lik
 
 ## Check out my 🚀 [Portofolio](https://lorenacapraru.netlify.app/)
 
+## 👀 Take a peak of what I am currently working on...[Invoice APP Repo](https://github.com/LorenaCapraru/invoice-app) and [Demo](https://cgm-invoice-tracker.netlify.app/)
+
 ## 👩🏼‍💻 Languages and Tools
 
 <p align="left">
